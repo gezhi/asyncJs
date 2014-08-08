@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="309" selection-end="309" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="342">
+            <state line="13" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="0.29733163" vertical-offset="0" max-vertical-offset="787">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/js.js">
+      <file leaf-file-name="anync.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/anync.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="22" selection-start="791" selection-end="791" vertical-scroll-proportion="0.37592137" vertical-offset="0" max-vertical-offset="814">
+            <state line="17" column="22" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/js.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -116,6 +116,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="canjs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="canjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="canjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="canjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="canjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -205,7 +229,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/js/anync.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="28" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="846">
           <folding />
@@ -233,7 +257,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/js/anync.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="5" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="972">
           <folding />
@@ -261,7 +285,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/js/anync.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252">
           <folding />
@@ -289,7 +313,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/js/anync.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="25" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="252">
           <folding />
@@ -354,16 +378,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/anync.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="309" selection-end="309" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="342">
+        <state line="17" column="22" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="22" selection-start="791" selection-end="791" vertical-scroll-proportion="0.37592137" vertical-offset="0" max-vertical-offset="814">
+        <state line="13" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="0.29733163" vertical-offset="0" max-vertical-offset="787">
           <folding />
         </state>
       </provider>
