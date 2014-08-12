@@ -7,7 +7,7 @@
         script.type = 'text/javascript';
         script.async = true;
         script.src = js;
-        document.getElementsByTagName('head')[0].appendChild(script);
+        document.getElementsByTagName('head')[0].insertBefore(script,document.getElementsByTagName('meta')[0]);
         script.onload = script.onreadystatechange = function(){
             if(!script.readyState || 'loaded' === script.readyState || 'complete' === script.readyState){
                 i++;
